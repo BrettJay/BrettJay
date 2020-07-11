@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I’m Brett 👋
 
-<!--
-**BrettJay/BrettJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A designer and developer from Perth, Australia.
 
-Here are some ideas to get you started:
+#### 🌱 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently really enjoying [GatsbyJS][gatsby] and [Theme UI][themeui].
+
+#### 🗂 Previous projects
+
+* I created a CSS grid example each day with **[CSS Grid a Day][cssgrid]**
+* I created a tiling Instagram grid template for Sketch, **[Ingrid][ingrid]**
+* I prototyped a travel **[Itinerary application][itinerary]** with Middleman
+* I created an **[Opengraph Sketch template][opengraph]** for rich link previews
+
+
+[gatsby]: https://www.gatsbyjs.org/ "Gatsby JS"
+[themeui]: https://theme-ui.com/ "Theme UI"
+
+[itinerary]: https://github.com/BrettJay/itinerary "Itinerary"
+[ingrid]: https://github.com/BrettJay/ingrid "Ingrid Sketch template"
+[cssgrid]: https://github.com/BrettJay/css-grid-a-day "CSS Grid a Day"
+[opengraph]: https://github.com/BrettJay/ogp-template "Opengraph Sketch template"
