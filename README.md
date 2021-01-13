@@ -4,7 +4,7 @@ A designer and developer from Perth, Australia.
 
 #### 🌱 Currently learning
 
-I’m currently really enjoying [Tailwind][tailwind] [GatsbyJS][gatsby] and [Theme UI][themeui].
+I’m currently really enjoying [Tailwind][tailwind], [GatsbyJS][gatsby], and [Theme UI][themeui].
 
 #### 🗂 Previous projects
 
