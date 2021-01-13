@@ -4,7 +4,7 @@ A designer and developer from Perth, Australia.
 
 #### 🌱 Currently learning
 
-I’m currently really enjoying [GatsbyJS][gatsby] and [Theme UI][themeui].
+I’m currently really enjoying [Tailwind][tailwind] [GatsbyJS][gatsby] and [Theme UI][themeui].
 
 #### 🗂 Previous projects
 
@@ -21,3 +21,4 @@ I’m currently really enjoying [GatsbyJS][gatsby] and [Theme UI][themeui].
 [ingrid]: https://github.com/BrettJay/ingrid "Ingrid Sketch template"
 [cssgrid]: https://github.com/BrettJay/css-grid-a-day "CSS Grid a Day"
 [opengraph]: https://github.com/BrettJay/ogp-template "Opengraph Sketch template"
+[tailwind]: http://tailwindcss.com "Tailwind CSS"
